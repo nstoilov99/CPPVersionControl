@@ -2,7 +2,7 @@
 
 void greet()
 {
-	std::cout << "Welcome traveler!\n\n";
+	std::cout << "Greetings traveler!\n\n";
 }
 int main()
 {
