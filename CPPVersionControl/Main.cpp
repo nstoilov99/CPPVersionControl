@@ -3,7 +3,7 @@
 void greet()
 {
 	//Print some text
-	std::cout << "Welcome!\n\n\n";
+	std::cout << "Greetings!\n\n";
 }
 int main()
 {
